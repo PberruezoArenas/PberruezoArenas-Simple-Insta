@@ -1,0 +1,63 @@
+*{
+    font-family: verdana;
+        
+}
+h1 {
+    text-align: center;
+    background: lightgray;
+    max-width: auto;
+    max-height: auto;
+
+}
+
+body{
+    background: rgb(255, 255, 255);
+    text-align: center;
+    descent-override: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.cuerpo {
+    background: gray;
+    text-align: center;
+    descent-override: flex;
+	align-items: center;
+	justify-content: center;
+    margin: none;
+
+}
+
+.cuerpoinfo {
+    background-color: rgb(76, 45, 45);
+    justify-content: center;
+	float: none;
+	padding: 150px 150px 150px 150px; 
+	text-align: center;
+	border-radius: none;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-bottom: 600px;
+    margin-top: 10px;
+}
+
+.encabezazo {
+    margin-bottom: 50px;
+
+}
+
+.titulo-encabezado {}
+
+.numero-foto {}
+
+
+img{
+    position: relative;
+    max-width: 50px;
+    max-height: 50px;
+    
+}
+
+.texto-imagen {
+    bottom: 50%;
+}
